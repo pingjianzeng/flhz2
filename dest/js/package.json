@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is for test",
+  "main": "cd..",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^2.0.12",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.1.0"
+  },
+  "scripts": {
+    "test": "cd .."
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "this is test"
+  },
+  "keywords": [
+    "test"
+  ]
+}
